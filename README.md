@@ -85,8 +85,8 @@
 
 # Data Diri
 
-Nama  : Anla Harpanda
-NIM   : 2311083015
+Nama  : Anla Harpanda<br>
+NIM   : 2311083015<br>
 Kelas : TRPL 2D
 
 ## Struktur Direktori
